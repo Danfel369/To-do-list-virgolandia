@@ -1,7 +1,7 @@
 # To-do-list-virgolandia
 Producto Mínimo viable: 
 
-A continuación se define los estándares básicos del proyecto:
+A continuación se define los estándares básicos del proyecto (Esto no fue agregado por Jaeger):
 
 El To-Do List Virgolandia contará con 3 roles: 
 
