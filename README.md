@@ -1,7 +1,7 @@
 # To-do-list-virgolandia
 Producto Mínimo viable: 
 
-A continuación se define los estándares básicos del proyecto (Esto no fue agregado por Jaeger):
+A continuación se define los estándares básicos del proyecto (Esto no fue agregado por Jaeger): (Alopecia)
 
 El To-Do List Virgolandia contará con 3 roles: 
 
@@ -36,5 +36,3 @@ Frontend React
 Tener front para el MVP
 
 el sistema debe implementar NOTIFICACIONES AL CORREO, debe ser responsive
-
-
