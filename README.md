@@ -6,6 +6,7 @@
 
 # REQUERIMIENTOS GENERALES
 - Como usuario quiero poder registrarme e iniciar sesión en la plataforma.
+- Como usuario registrado quiero poder cambiar mis credenciales registradas, tales como mi contraseña, mi foto de perfil y mi correo electrónico.
 - Como empleado individual quiero poder crear tareas, editarlas o eliminarlas.
 - Como empleado individual quiero poder establecer una fecha límite para el cumplimiento de una tarea.
 - Como empleado individual quiero que me llegue un recordatorio (Notificaciones al correo) con las fechas límites que establezca en cada tarea.
@@ -19,6 +20,7 @@
 Con la finalidad de cumplir con un MVP para satisfacer la necesidad más básica del usuario, nuestro objetivo principal es cumplir con:
 - Como usuario quiero poder registrarme e iniciar sesión en la plataforma.
 - Como empleado individual quiero poder crear tareas, editarlas y eliminarlas.
+- Como usuario registrado quiero poder cambiar mis credenciales registradas, tales como mi contraseña y mi correo electrónico.
 
 # SECCIÓN "MI PERFIL"
 Con el objetivo de que el usuario pueda modificar sus credenciales registradas en la plataforma, se brindará una sección de "Mi Perfil" para que este pueda modificar ciertos valores permitidos:
