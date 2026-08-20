@@ -8,7 +8,7 @@ El To-Do List Virgolandia contará con 3 roles:
     1- empleado 
     2- líder 
     3- sublíder
-
+para la diferencia líder y sublider tenemos que aclarar que roles o cargos tienen en estas dos variables, en respecto con los empleados no será necesario ya que esta variable será dirigido por alguna de estas dos(líder, sublider), para ello se debe considerar que el líder tenga un puesto de rol en donde mande o haga algo en especial al sublider para que esta variable se dirija a los usuarios que en esta ocasión sea los empleados
 De los cuales los requerimientos son: 
 
 Como empleado individual quiero crear tareas para guardarlas, editarlas o eliminarlas y tener un recordatorio para la fecha limite (anotar los deberes del día)
